@@ -1,0 +1,15 @@
+3.2
+OOCSS Object Oriented CSS
+객체지향 CSS
+
+레고처럼 자유로운 조합이 가능한 모듈의 집합 만들기
+그 모듈 조합해 페이지 만들기
+그리하여 신규 페이지 만드는 경우도, 기본적으로 추가 CSS만들 필요 X
+
+- 스트럭쳐(구조)와 스킨(화면) 분리
+- 컨테이너와 콘텐츠 분리
+
+스트럭쳐와 스킨 분리
+
+스트럭쳐 해당 width height padding margin
+스킨에 해당 color font background box-shadow text-shadow
